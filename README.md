@@ -8,7 +8,7 @@
 
 **Nyelv**: C#
 
-# 1. Projekt létrehozva
+## 1. Projekt létrehozva
 
 **Player-assets** : https://assetstore.unity.com/packages/2d/characters/martial-hero-170422
 
