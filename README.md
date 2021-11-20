@@ -8,6 +8,8 @@
 
 **Nyelv**: C#
 
+# Források:
+
 **Player-assets** : https://assetstore.unity.com/packages/2d/characters/martial-hero-170422
 
 **Terrain and Background assets**:https://assetstore.unity.com/packages/2d/textures-materials/nature/alien-tile-set-116827
@@ -43,6 +45,8 @@
 
 **11.:** Start Scene kész.
 
-**12.:** End Scene kész. Start- és End Scene zenék hozzáadva
+**12.:** End Scene kész. Start- és End Scene zenék hozzáadva.
 
 **13.:** Setup kész.
+
+**14.:** Gameplay videó feltöltve.
