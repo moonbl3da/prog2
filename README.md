@@ -25,7 +25,7 @@
 
 **3.:** Az első pályát megalkottam TileMap segítségével.
  
-**4.:** Mozgási bug kijavítva. 
+**4.:** Mozgási bug kijavítva. Irányítás: A(bal), D(jobb) ,Space(ugrás) billentyűk.
 
 **5.:** Gyűjthető item (black cherries) hozzáadva.
 
