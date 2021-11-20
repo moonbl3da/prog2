@@ -4,7 +4,7 @@
 
 **Projekt-név:** Samuray
 
-**Platform:** Unity
+**Software:** Unity,VSCode
 
 **Nyelv:** C#
 
