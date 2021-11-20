@@ -32,7 +32,7 @@
  
 **2.:** Mozgás Scriptek befejezve, ugrani is tudok. PlayerMovement Script.
 
-     **2.1:** Ugrás bug kijavítva, mostantól nem ugrok ki a pályából. GroundCheck function megírva.
+   **2.1:** Ugrás bug kijavítva, mostantól nem ugrok ki a pályából. GroundCheck function megírva.
 
 **3.:** Az első pályát megalkottam TileMap segítségével.
  
@@ -42,11 +42,11 @@
 
 **6.:** Csapdák és mozgó platformok hozzáadva.
 
-     **6.1:** Mozgó platform bug kijavítva. Többé nem ragadok hozzá a platformokhoz.
+  **6.1:** Mozgó platform bug kijavítva. Többé nem ragadok hozzá a platformokhoz.
 
 **7.:** Első pálya befejezve. 
 
-     **7.1:** Mostantól meghalni is tudok. PlayerLife Script.
+   **7.1:** Mostantól meghalni is tudok. PlayerLife Script.
 
 **8.:** Hangok hozzáadva a Player Objecthez. Illetve háttérzene is van mostantól.
 
